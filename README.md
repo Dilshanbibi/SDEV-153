@@ -34,6 +34,7 @@ Non-Functional Requirements
 Technical Requirements:
 Stripe checkout
 HTML, CSS, and JS
+Third party AI API
 Hosting on Github
 Google analytics
 etc. 
